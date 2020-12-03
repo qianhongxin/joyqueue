@@ -1,0 +1,2 @@
+org.joyqueue.handler.message.AuditLogMessageHandler
+org.joyqueue.handler.message.OperLogMessageHandler

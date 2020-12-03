@@ -1,0 +1,25 @@
+*.iml
+.idea/
+.vscode/
+.vertx/
+.vscode/
+target/
+/dist/
+h2-db-joyqueue
+.classpath
+.settings
+.project
+*.log
+# macOS
+.DS_Store
+
+.vpp.vbak
+.vpp.bak*
+.vpp.lck
+
+.version.properties
+filter.properties
+.factorypath
+*.pyc
+joyqueue-console/joyqueue-portal/node/
+joyqueue-console/joyqueue-web/joyqueue-web-webroot

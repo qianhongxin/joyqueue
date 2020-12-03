@@ -1,0 +1,36 @@
+{
+  "zh-CN": {
+    "common": {
+      "operate": "操作"
+    },
+    "application": {
+      "placeholder1": "请输入英文名/中文名",
+      "syncApp": "同步应用",
+      "colData": {
+        "id": "ID",
+        "code": "英文名",
+        "system": "来源[应用来源/系统名称/应用代码]",
+        "btnDetail": "详情",
+        "btnDelete": "删除",
+        "description": "描述"
+      }
+    }
+  },
+  "en-US": {
+    "common": {
+      "operate": "Operation"
+    },
+    "application": {
+      "placeholder1": "Please input the name",
+      "syncApp": "Sync App",
+      "colData": {
+        "id": "ID",
+        "code": "Code",
+        "system": "Source[appSource/sysName/appCode]",
+        "btnDetail": "Show Detail",
+        "btnDelete": "Delete",
+        "description": "Description"
+      }
+    }
+  }
+}
